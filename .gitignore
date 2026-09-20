@@ -1,0 +1,18 @@
+# Compiled class files
+bin/
+*.class
+
+# JDBC driver jar (large binary, redistribute separately)
+lib/*.jar
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.classpath
+*.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
